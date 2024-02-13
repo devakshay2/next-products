@@ -1,0 +1,11 @@
+.primary {
+    background-color:#6773e2;
+    border: 2px;
+    padding: 8px; 
+    border-color: black;
+    border-radius: 5px;
+    text-decoration-line: none;
+    color: white;
+    font-weight: bold;
+    user-select: none;
+}
